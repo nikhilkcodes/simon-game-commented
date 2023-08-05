@@ -4,10 +4,6 @@
 
 Simon Game is a classic memory-based game where the player must remember and repeat a sequence of colors and sounds. The game provides an interactive and fun way to test your memory and pattern recognition skills.
 
-## Live Demo
-
-You can play the game online [here](https://your-game-url.com).
-
 ## Features
 
 - Generates a random sequence of colors for each level.
